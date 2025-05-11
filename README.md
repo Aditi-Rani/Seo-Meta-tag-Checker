@@ -37,4 +37,4 @@ python meta_checker.py
 ### 4.Run the script
 <b2>Enter any URL</b2><br>
 
-https://www.wikipedia.org
+
