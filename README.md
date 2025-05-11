@@ -21,11 +21,20 @@ A simple Python CLI tool to audit website meta tags (`<title>`, `<meta name="des
 
 ## 🚀 How to Run
 
-1. **Clone the repository:**
+### 1.**Clone the repository:**
 
 ```bash
 git clone https://github.com/Aditi-Rani/Seo-Meta-tag-Checker
 cd Seo-Meta-tag-Checker
+```
+### 2.Install dependencies:**
 
+pip install -r requirements.txt
 
-## Install dependencies:
+### 3.Run the script::**
+python meta_checker.py
+
+### 4.Run the script::**
+<b2>Enter any URL</b2><br>
+
+https://www.wikipedia.org
